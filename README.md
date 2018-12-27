@@ -3,7 +3,8 @@
 
 ## Complex
 
-### iVault [![](https://img.shields.io/badge/anuditnagar-assetreg-blue.svg?link=https://github.com/anuditnagar&link=https://github.com/anuditnagar/assetreg)](https://github.com/anuditnagar/assetreg)
+### iVault 
+[![](https://img.shields.io/badge/anuditnagar-assetreg-blue.svg?link=https://github.com/anuditnagar&link=https://github.com/anuditnagar/assetreg)](https://github.com/anuditnagar/assetreg)
  - FIS SOLUTIONS(INDIA)
  - Finance
 
@@ -16,7 +17,8 @@
 > need for system which allow creation of data which cannot be
 > manipulated but can be extended
 
-### Land Real estate Registration [![](https://img.shields.io/badge/anuditnagar-landreg-blue.svg?link=https://github.com/anuditnagar&link=https://github.com/anuditnagar/landreg)](https://github.com/anuditnagar/landreg)
+### Land Real estate Registration 
+[![](https://img.shields.io/badge/anuditnagar-landreg-blue.svg?link=https://github.com/anuditnagar&link=https://github.com/anuditnagar/landreg)](https://github.com/anuditnagar/landreg)
 
  - FIS SOLUTIONS(INDIA)
  - Web App development
