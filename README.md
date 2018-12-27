@@ -3,7 +3,7 @@
 
 ## Complex
 
-### iVault
+### iVault [![](https://img.shields.io/badge/anuditnagar-assetreg-blue.svg?link=https://github.com/anuditnagar&link=https://github.com/anuditnagar/assetreg)](https://github.com/anuditnagar/assetreg)
  - FIS SOLUTIONS(INDIA)
  - Finance
 
