@@ -82,7 +82,7 @@
 
 ###   Block-chain based certificate validation
 
-- Greefy Technologies
+- Greefi Technologies
 - Software - Web App development
 - [https://www.youtube.com/watch?v=8hXl8ormv7w&featur](https://www.youtube.com/watch?v=8hXl8ormv7w&featur)
 
